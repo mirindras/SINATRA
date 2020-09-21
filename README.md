@@ -42,7 +42,7 @@ Sinatra est un super langage pour comprendre, en venant de Ruby, comment une app
 
 
 ```
- $ git clone git@github.com:mirndraswwwwwwwwww.git
+ $ git clone git@github.com:mirindras/SINATRA.git
 puis 
 $ bundle install
 et enfin 
